@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=VA+NANSEMOND+INDIAN+NATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=VA+NANSEMOND+INDIAN+NATION",
+  "title": "Federal Register - VA NANSEMOND INDIAN NATION",
+  "fetched_at": "2026-11-23T17:36:37.544518Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 171490,
+  "sha256": "b236d4d129cd36a3d3f0b4c2bf9d213e6539c7d06f7a6e43943d4188977dfc03",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
